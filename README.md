@@ -19,3 +19,5 @@ Practical 16 : To copy contents of one file to other. While copying
 <br>a) all full stops are to be replaced with commas 
 <br>b) lower case are to be replaced with upper case 
 <br>c) upper case are to be replaced with lower case.
+
+Practical 19 : Create class STORE to keep track of Products ( Product Code, Name and price). Display menu of all products to user. Generate bill as per order.
