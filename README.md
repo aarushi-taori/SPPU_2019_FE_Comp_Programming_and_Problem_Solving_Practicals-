@@ -14,3 +14,8 @@ Pratical 15 : Write a python program that accepts a string from user and perform
 <br>iii.  Equality check of two strings 
 <br>iii.  Check palindrome 
 <br>iv.   Check substring 
+
+Practical 16 : To copy contents of one file to other. While copying 
+<br>a) all full stops are to be replaced with commas 
+<br>b) lower case are to be replaced with upper case 
+<br>c) upper case are to be replaced with lower case.
