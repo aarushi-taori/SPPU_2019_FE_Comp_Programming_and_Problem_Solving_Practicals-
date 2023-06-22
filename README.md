@@ -20,4 +20,12 @@ Practical 16 : To copy contents of one file to other. While copying
 <br>b) lower case are to be replaced with upper case 
 <br>c) upper case are to be replaced with lower case.
 
+Practical  17 : To count total characters in file, total words in file, total lines in file and frequency of given word in file.  
+
+Practical 18 : Create class EMPLOYEE for storing details (Name, Designation, gender, Date of Joining and Salary). Define function members to compute 
+<br>a)total number of employees in an organization 
+<br>b) count of male and  female employee 
+<br>c) Employee with salary more than 10,000 
+<br>d) Employee with designation “Asst Manager”
+
 Practical 19 : Create class STORE to keep track of Products ( Product Code, Name and price). Display menu of all products to user. Generate bill as per order.
